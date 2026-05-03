@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! I'm Deni 👋
 
-<!--
-**Denny-crypto/Denny-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Information Systems student** at IBI Kesatuan with a GPA of 3.80. 
+I love building things with Java, PHP, and JavaScript.
 
-Here are some ideas to get you started:
+### 🛠 Skills & Technologies:
+- **Languages:** Java, PHP, JavaScript
+- **Design Tools:** Figma, Canva
+- **Hardware:** PC Assembly & Troubleshooting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 Interests:
+When I'm not coding, you can find me playing **Apex Legends** or **GTA V**, 
+or maybe practicing melodies on the digital piano.
+
+### 🚀 Projects:
+- **Eco-Inforplastic:** Turning plastic waste into useful products.
+- **AR Furniture Sales System:** Developing a modern solution for furniture businesses.
